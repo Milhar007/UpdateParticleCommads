@@ -13,3 +13,8 @@ Run convert_particles.py
 Should output converted_particles.txt with all new commands
 
 Hope this helps!
+
+---------------------------------------------------------
+NOTE:
+
+May need to pip install re if you do not have already!
